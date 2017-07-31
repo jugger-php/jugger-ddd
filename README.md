@@ -1,1 +1,1 @@
-# jugger-ddd
+# module-ddd
